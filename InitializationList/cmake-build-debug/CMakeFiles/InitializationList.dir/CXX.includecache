@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/Base.h
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/Derive.h
+Base.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/Base.h
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/main.cpp
+iostream
+-
+Base.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/Base.h
+Derive.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/InitializationList/Derive.h
+
