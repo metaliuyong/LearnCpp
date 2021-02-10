@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Base.cpp
+Base.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Base.h
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Base.h
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Derive.cpp
+Derive.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Derive.h
+iostream
+-
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Derive.h
+Base.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Base.h
+
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/main.cpp
+Base.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Base.h
+Derive.h
+/Users/liuyong/Documents/CLionProjects/LearnCpp/VirtualFunction/Derive.h
+memory
+-
+
