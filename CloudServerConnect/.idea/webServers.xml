@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27c73d01-ecc1-44f1-a5b4-e83eaffa4e78" name="Aliyun" url="http://39.97.176.4">
+        <fileTransfer rootFolder="/home/ly/LearnCpp" accessType="FTPS" host="39.97.176.4" port="22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
